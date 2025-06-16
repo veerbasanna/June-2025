@@ -1,0 +1,43 @@
+Jun 13 17:50:42 veeresh fwupdmgr[8425]: Downloading…: 100%
+Jun 12 17:50:42 veeresh fwupdmgr[8425]: message repeated 2 times: [ Downloading…: 100%]
+Jun 12 17:50:43 veeresh systemd[1]: logrotate.service: Deactivated successfully.
+Jun 12 17:50:43 veeresh systemd[1]: Finished Rotate log files.
+Jun 12 17:50:43 veeresh fwupdmgr[8425]: Downloading…: 0%
+Jun 12 17:50:43 veeresh fwupdmgr[8425]: Downloading…: 1%
+Jun 12 17:50:43 veeresh fwupdmgr[8425]: Downloading…: 2%
+Jun 12 17:50:43 veeresh fwupdmgr[8425]: Downloading…: 3%
+Jun 12 17:50:43 veeresh fwupdmgr[8425]: Downloading…: 4%
+Jun 12 17:50:43 veeresh fwupdmgr[8425]: Downloading…: 6%
+Jun 12 17:50:43 veeresh fwupdmgr[8425]: Downloading…: 6%
+Jun 12 17:50:43 veeresh fwupdmgr[8425]: Downloading…: 10%
+Jun 12 17:50:43 veeresh fwupdmgr[8425]: Downloading…: 10%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Downloading…: 20%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Downloading…: 28%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Downloading…: 33%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Downloading…: 43%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Downloading…: 74%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Downloading…: 78%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Downloading…: 83%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Downloading…: 93%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Downloading…: 94%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Downloading…: 96%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Idle…: 100%
+Jun 12 17:50:44 veeresh fwupdmgr[8425]: Idle…: 100%
+Jun 12 17:50:46 veeresh NetworkManager[719]: <info>  [1749730846.6824] audit: op="sleep-control" arg="off" pid=8524 uid=0 result="fail" reason="Already awake"
+Jun 12 17:50:47 veeresh kernel: [21782.607990] hub 2-2:1.0: hub_ext_port_status failed (err = -110)
+Jun 12 17:50:49 veeresh systemd[1]: Listening on Network Service Netlink Socket.
+Jun 12 17:50:49 veeresh systemd[1]: Condition check resulted in OpenVSwitch configuration for cleanup being skipped.
+Jun 12 17:50:49 veeresh systemd[1]: Starting Network Configuration...
+Jun 12 17:50:52 veeresh systemd-networkd[8544]: docker0: Link UP
+Jun 12 17:50:52 veeresh systemd-networkd[8544]: ens33: Link UP
+Jun 12 17:50:52 veeresh systemd-networkd[8544]: ens33: Gained carrier
+Jun 12 17:50:52 veeresh systemd-networkd[8544]: lo: Link UP
+Jun 12 17:50:52 veeresh systemd-networkd[8544]: lo: Gained carrier
+Jun 12 17:50:52 veeresh systemd-networkd[8544]: ens33: Gained IPv6LL
+Jun 12 17:50:52 veeresh systemd-networkd[8544]: Enumeration completed
+Jun 12 17:50:52 veeresh systemd[1]: Started Network Configuration.
+Jun 12 17:50:58 veeresh fwupdmgr[8425]: Successfully downloaded new metadata: 0 local devices supported
+Jun 12 17:50:58 veeresh systemd[1]: fwupd-refresh.service: Deactivated successfully.
+Jun 12 17:50:58 veeresh systemd[1]: Finished Refresh fwupd metadata and update motd.
+Jun 12 17:50:58 veeresh systemd[1]: fwupd-refresh.service: Consumed 1.499s CPU time.
+@@@                                                                                   
